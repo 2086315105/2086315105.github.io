@@ -1,3 +1,15 @@
-1.555555
-2.555555
-3.55555
+Release Notes
+
+1.1.389 (1.1.389.1)
+CHANGE
+* Translation files updated.
+
+1.1.388 (1.1.388.1)
+NEW
+* AllowSharedConnections (Allow Shared Connections) setting - added to the Administration section, Server Settings group.
+* MaxGateFrameOnSaddles (Max Gateways on Saddles) setting - added to the Rules section, towards the top.
+
+CHANGE
+* DinoCountMultiplier (Dino Spawns) setting - moved to the Environment section, at the top.
+* de-DE Translation file updated.
+* fr-FR Translation file updated.
